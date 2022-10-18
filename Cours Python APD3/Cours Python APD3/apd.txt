@@ -1,0 +1,12 @@
+isep dimaniadio
+Lire "r" - par défaut
+
+Ajouter "a" - Ouvre le fichier pour l'ajout, crée un nouveau fichier s'il n'existe pas
+
+Ecrire "w" - Ouvre un fichier pour l'écriture, crée un nouveau fichier s'il n'existe pas
+
+Créer "x" - Crée un fichier avec le nom donné
+
+Texte "t" - Ouvre le fichier en mode texte
+
+Binaire "b" - Ouvre le fichier en mode binaire
